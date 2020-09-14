@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Font.meta
+    - Assets/Font/DOWNCOME.TTF.meta
+    - Assets/Font/NanumBarunGothicBold.ttf
+    - Assets/Font/NanumBarunGothicBold.ttf.meta
+    - "Assets/Font/tvN \uC990\uAC70\uC6B4\uC774\uC57C\uAE30 Bold.ttf"
+    - "Assets/Font/tvN \uC990\uAC70\uC6B4\uC774\uC57C\uAE30 Bold.ttf.meta"
+    - Assets/Scripts/MainMenu/UI/CheckMark.png
+    - Assets/Scripts/MainMenu/UI/CheckMark.png.meta
+    - Assets/Scripts/MainMenu/UI/FadeScript.cs
+    - Assets/Scripts/MainMenu/UI/Gamemanager.cs
+    - 
+    m_Values: 0000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
